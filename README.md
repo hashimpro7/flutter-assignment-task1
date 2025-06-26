@@ -98,14 +98,19 @@ flutter:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/flutter-internship-task.git
+   git clone [https://github.com/your-username/flutter-internship-task.git](https://github.com/hashimpro7/flutter-assignment-task1/tree/master)
    cd flutter-internship-task
    ```
 
 2. **Install dependencies**:
 
    ```bash
-   flutter pub get
+  animate_do: ^3.1.2
+  shared_preferences: ^2.5.3
+  cupertino_icons: ^1.0.2
+
+  run
+  flutter pub get
    ```
 
 3. **Run the app**:
@@ -119,5 +124,5 @@ flutter:
 This project was completed as part of an internship task by:
 
 **Muhammad Hashim Shahid**
-\[LinkedIn Profile (Optional)]
-\[GitHub Profile (Optional)]
+\[(https://github.com/hashimpro7)]
+\[https://www.linkedin.com/in/hashim-shahid-5a620b26a]
